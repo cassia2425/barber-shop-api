@@ -1,16 +1,7 @@
 
 
 
-<!--  --><table align="center">
-<thead>
-  <tr>
-    <td>
-        <p align="center">Expert</p>
-        <a href="https://github.com/juniorjrjl">
-        <img src="https://avatars.githubusercontent.com/u/6619093?u=0afe982a654793dfc9e886acab8b417aa632f511&v=4" alt="@felipeAguiarCode"><br>
-      </a>
-    </td>
-    <td colspan="3">
+
     <p>🎉 10y+ em desenvolvimento Backend (Principalmente com Java mas já atuei com Scala, Python, Kotlin).
       <br/>
      🌟 Desenvolvedor backend - CAJU
