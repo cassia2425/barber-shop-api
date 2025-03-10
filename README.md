@@ -3,8 +3,7 @@
   <p align="center">
     <img 
       alt="DIO Education" 
-      src="https://raw.githubusercontent.com/digitalinnovationone/template-github-trilha/main/.github/assets/logo.webp" 
-      width="100px" 
+     
     />
     <h1>barber-shop-api</h1>
   </p>
@@ -24,7 +23,7 @@
     <td>
         <p align="center">Expert</p>
         <a href="https://github.com/juniorjrjl">
-        <img src="https://avatars.githubusercontent.com/u/6619093?u=0afe982a654793dfc9e886acab8b417aa632f511&v=4" alt="@felipeAguiarCode"><br>
+        <img src="https://avatars.githubusercontent.com/u/6619093?u=0afe982a654793dfc9e886acab8b417aa632f511&v=4" 
       </a>
     </td>
     <td colspan="3">
@@ -35,8 +34,7 @@
     👨‍💻 Foco em back-ends
     </p>
       <a 
-      href="https://www.linkedin.com/in/josé-luiz-abreu-cardoso-junior-18483872/" 
-      align="center">
+      
            <img 
             align="center" 
             alt="Material de Apoio" 
